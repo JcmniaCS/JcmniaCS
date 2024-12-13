@@ -10,7 +10,7 @@ Nothing special about me :D
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills PLACEHOLDER
 
 
 
@@ -20,7 +20,7 @@ Nothing special about me :D
 
 ---
 
-## 👨‍💻 My Projects
+## 👨‍💻 My Projects PLACEHOLDER
 
 Here are a few of the projects I've worked on:
 
@@ -46,7 +46,7 @@ A Python-based project for data analysis using Pandas and Matplotlib.
 ### Languages:
 - HTML, CSS
 - SQL, MongoDB
-- - JavaScript (React, Node.js)
+- JavaScript (React, Node.js)
 
 
 ## 💬 Let's Chat!
