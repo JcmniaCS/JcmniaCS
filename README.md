@@ -42,11 +42,11 @@ A Python-based project for data analysis using Pandas and Matplotlib.
 ---
 
 ## 🎯 Currently Learning
+Python
+CSS
 
 ### Languages:
 - HTML, CSS
-- SQL, MongoDB
-- JavaScript (React, Node.js)
 
 
 ## 💬 Let's Chat!
